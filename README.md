@@ -1,6 +1,6 @@
 # Banking-Website-with-Django
 
-### site compnents :
+### site components :
     
   - Create Bank Account with Account Numbers, PIN Numbers e.t.c.
   - Advanced KYC Registrations and Verification
@@ -22,4 +22,4 @@
   - Ajax    
 
 
-<img width="1153" alt="image" src="https://github.com/user-attachments/assets/a4ab559c-5c43-442c-84d1-2aa2c4088858">
+![aa](https://github.com/user-attachments/assets/67e9d853-67b2-428a-b84e-a54b1b18b11d)
