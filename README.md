@@ -20,3 +20,6 @@
   - python
   - Django  
   - Ajax    
+
+
+<img width="1153" alt="image" src="https://github.com/user-attachments/assets/a4ab559c-5c43-442c-84d1-2aa2c4088858">
