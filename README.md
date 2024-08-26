@@ -13,7 +13,6 @@
   - Delete the linked credit cards and send the remaining funds back to the account balance.
   - Notification System
   - Tracking of Transaction History
-  - Host our website on railway hosting. 
 
 
 ### teck Stack :
